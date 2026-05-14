@@ -222,32 +222,26 @@ The program displays:
 - Accuracy graph
 - Loss graph
 
-# Example Output:
-
 ```txt
 Epoch 1
-Average Loss: 1.24
-Accuracy: 76.32%
+Average Loss: 0.446
+Accuracy: 84.20%
 
 Epoch 2
-Average Loss: 0.82
-Accuracy: 84.10%
+Average Loss: 0.517
+Accuracy: 82.80%
 
-Test Accuracy: 82.45%
+Epoch 3
+Average Loss: 0.449
+Accuracy: 85.70%
+
 ```
 
-# Accuracy Graph
+# Training Accuracy: 85.70%
 
-The training accuracy graph shows improvement in CNN performance during training.
+# Test Loss: 0.480
 
-(Add screenshot here)
-
-
-# Loss Graph
-
-The loss graph shows reduction in training loss during learning.
-
-(Add screenshot here)
+# Test Accuracy: 84.60%
 
 
 # Advantages of CNN
@@ -290,5 +284,3 @@ This project successfully implemented a Convolutional Neural Network from scratc
 The project provided a deeper understanding of CNN internals including convolution, pooling, activation functions, forward propagation, and backpropagation.
 
 The model achieved good classification accuracy and demonstrated the effectiveness of CNNs in image classification tasks.
-
- here.
